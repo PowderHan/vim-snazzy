@@ -61,7 +61,7 @@ let g:terminal_color_11 = '#f3f99d'
 let g:terminal_color_12 = '#57c7ff'
 let g:terminal_color_13 = '#ff6ac1'
 let g:terminal_color_14 = '#9aedfe'
-let g:terminal_color_15 = '#eff0eb'
+let g:terminal_color_15 = '#3F3F3F'
 
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
