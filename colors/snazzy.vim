@@ -35,7 +35,7 @@ let  cyan     =  '#9aedfe'
 " Grayscale
 let  ui_0     =  '#F9F9F9'
 let  ui_1     =  '#f9f9ff'
-let  ui_2     =  '#eff0eb'
+let  ui_2     =  '#3F3F3F'
 let  ui_3     =  '#e2e4e5'
 let  ui_4     =  '#a1a6a8'
 let  ui_5     =  '#848688'
